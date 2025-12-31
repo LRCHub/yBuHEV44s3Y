@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Let You Down",
+  "base_artist": "Dawid Podsiadło",
+  "createdAt": "2025-12-31T08:29:45.748946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "An Old Raincoat Won't Ever Let You Down",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/01_An_Old_Raincoat_Won't_Ever_Let_You_Down_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Won't Let You Down",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/02_Won't_Let_You_Down_Oasis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let You Down (feat. TyFontaine & TheHxliday)",
+      "artist": "Internet Money feat. TyFontaine & TheHxliday",
+      "has_synced": true,
+      "path": "select/03_Let_You_Down_(feat._TyFontaine_&_TheHxliday)_Internet_Money_feat._TyFontaine_&_TheHxliday.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let You Down (feat. TyFontaine & TheHxliday)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/04_Let_You_Down_(feat._TyFontaine_&_TheHxliday)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Never Let You Down",
+      "artist": "Rick Astley",
+      "has_synced": true,
+      "path": "select/05_I'll_Never_Let_You_Down_Rick_Astley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Let You Down (Interlude)",
+      "artist": "Banoffee",
+      "has_synced": true,
+      "path": "select/06_I_Let_You_Down_(Interlude)_Banoffee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Won't Let You Down",
+      "artist": "Alex Clare",
+      "has_synced": true,
+      "path": "select/07_I_Won't_Let_You_Down_Alex_Clare.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let You Down",
+      "artist": "machineheart",
+      "has_synced": true,
+      "path": "select/08_Let_You_Down_machineheart.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody's Gonna Let You Down",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/09_Everybody's_Gonna_Let_You_Down_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Never Let You Down",
+      "artist": "Fastball",
+      "has_synced": false,
+      "path": "select/10_I_Will_Never_Let_You_Down_Fastball.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Won't Let You Down",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/11_Won't_Let_You_Down_Texas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Won't Let You Down",
+      "artist": "Swing Out Sister",
+      "has_synced": true,
+      "path": "select/12_Love_Won't_Let_You_Down_Swing_Out_Sister.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let You Down",
+      "artist": "Dave Matthews Band",
+      "has_synced": true,
+      "path": "select/13_Let_You_Down_Dave_Matthews_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Won't Let You Down",
+      "artist": "PhD",
+      "has_synced": true,
+      "path": "select/14_I_Won't_Let_You_Down_PhD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Won't Let You Down (Almanac demo)",
+      "artist": "Pugwash",
+      "has_synced": true,
+      "path": "select/15_I_Won't_Let_You_Down_(Almanac_demo)_Pugwash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let You Down",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/16_Let_You_Down_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Let You Down",
+      "artist": "Theatre of Tragedy",
+      "has_synced": true,
+      "path": "select/17_Let_You_Down_Theatre_of_Tragedy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Won't Let You Down",
+      "artist": "The Subways",
+      "has_synced": true,
+      "path": "select/18_I_Won't_Let_You_Down_The_Subways.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let You Down",
+      "artist": "Dawid Podsiadło",
+      "has_synced": false,
+      "path": "select/pl_01_Let_You_Down_Dawid_Podsiadło.txt"
+    }
+  ]
+}
